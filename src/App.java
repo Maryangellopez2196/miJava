@@ -9,6 +9,7 @@ int suma = a + b;
 
 System.out.println("Hola," + nombre + "!");
 System.out.println("la suma de:" + a + "+" + b + "es:" + suma);
+System.out.println("Maryangel Sofia Lopez Ortiz 2025-2196U");
 
     }
 }
