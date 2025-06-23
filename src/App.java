@@ -4,7 +4,7 @@ public class App {
 String nombre = "Estudiante";
 
 int a = 10;
-int b = 3;
+int b = 5;
 int suma = a + b;
 
 System.out.println("Hola," + nombre + "!");
