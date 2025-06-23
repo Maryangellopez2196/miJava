@@ -3,7 +3,7 @@ public class App {
       
 String nombre = "Estudiante";
 
-int a = 5;
+int a = 10;
 int b = 3;
 int suma = a + b;
 
